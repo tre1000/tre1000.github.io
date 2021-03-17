@@ -1,0 +1,23 @@
+h2.alt {
+  font-family: "Syne Mono", monospace;
+  color: rgb(0, 0, 0) !important;
+  text-shadow: -1px -1px 0 rgb(255, 252, 90), 1px -1px 0 rgb(255, 252, 90), -1px 1px 0 rgb(255, 252, 90),
+    1px 1px 0 rgb(255, 252, 90);
+}
+p.alt {
+  font-family: "Syne Mono", monospace;
+  color: rgb(0, 0, 0);
+  text-shadow: -1px -1px 0 rgb(255, 252, 90), 1px -1px 0 rgb(255, 252, 90), -1px 1px 0 rgb(255, 252, 90),
+    1px 1px 0 rgb(255, 252, 90);
+  font-size: 30px;
+}
+
+h2.grabber {
+  font-family: "Syne Mono", monospace;
+  color: rgb(0, 0, 0) !important;
+  text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
+}
+
+a.button {
+  font-family: "Syne Mono", monospace;
+}
